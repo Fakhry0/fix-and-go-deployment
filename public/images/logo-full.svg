@@ -1,0 +1,13 @@
+<svg width="250" height="80" viewBox="0 0 250 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M80 40C80 51.0457 71.0457 60 60 60C48.9543 60 40 51.0457 40 40C40 28.9543 48.9543 20 60 20C71.0457 20 80 28.9543 80 40Z" stroke="#0056B3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M60 30V40L67 47" stroke="#0056B3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M50 25L70 55" stroke="#FF6B00" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M100 30H109.6L117.6 51.6L125.6 30H135.2L123.2 60H112L100 30Z" fill="#0056B3"/>
+  <path d="M138 30H147.6V60H138V30Z" fill="#0056B3"/>
+  <path d="M151.4 30H168.6L176.6 50L184.6 30H201.8V60H192.2V40L184.2 60H169L161 40V60H151.4V30Z" fill="#0056B3"/>
+  <path d="M216 42.5C216 35.6 221.6 30 228.5 30C235.4 30 241 35.6 241 42.5C241 49.4 235.4 55 228.5 55C221.6 55 216 49.4 216 42.5ZM231 42.5C231 39.74 229.04 37.5 226.67 37.5C224.3 37.5 222.33 39.74 222.33 42.5C222.33 45.26 224.3 47.5 226.67 47.5C229.04 47.5 231 45.26 231 42.5Z" fill="#0056B3"/>
+  <path d="M100 65H107V72H100V65Z" fill="#FF6B00"/>
+  <path d="M111 65H139V72H111V65Z" fill="#0056B3"/>
+  <path d="M143 65H201V72H143V65Z" fill="#FF6B00"/>
+  <text x="85" y="78" font-family="Tajawal, sans-serif" font-size="9" font-weight="500" fill="#0056B3">خدمات السيارات الشاملة</text>
+</svg>
